@@ -9,4 +9,4 @@ Going through the tutorial I learnt a lot, such as:
 - practice with media queries (mobile first! :-)),
 - I love animations in this project! :-)
 
-https://giphy.com/gifs/l4RgWfltkX7OPGgRKr/html5
+https://gph.is/g/Zk6wkOO
