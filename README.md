@@ -8,5 +8,3 @@ Going through the tutorial I learnt a lot, such as:
 - great exercise with flexbox and grid,
 - practice with media queries (mobile first! :-)),
 - I love animations in this project! :-)
-
-![Alt Text](https://media.giphy.com/media/l4RgWfltkX7OPGgRKr/giphy.gif)
